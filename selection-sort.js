@@ -13,7 +13,6 @@ function selectionSort(array) {
 		}
 	}
 	return array;
-
 }
 
 const result = selectionSort([7,3,4,6,34,2,7,2,1]);

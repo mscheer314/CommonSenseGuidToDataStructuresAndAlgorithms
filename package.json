@@ -1,0 +1,8 @@
+{
+  "name": "CommonSenseGuidToDataStructuresAndAlgorithms",
+  "version": "1.0.0",
+  "type": "module",
+  "repository": "https://github.com/mscheer314/CommonSenseGuidToDataStructuresAndAlgorithms.git",
+  "author": "Mark Scheer <mscheer314@gmail.com>",
+  "license": "MIT"
+}
